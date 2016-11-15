@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imagenes/salir-de-gnome-icono-7637-96.png</file>
+        <file>imagenes/floppy.png</file>
+        <file>imagenes/disque10.png</file>
+        <file>imagenes/documents07.png</file>
+        <file>imagenes/images.png</file>
+        <file>imagenes/rts.png</file>
+    </qresource>
+</RCC>

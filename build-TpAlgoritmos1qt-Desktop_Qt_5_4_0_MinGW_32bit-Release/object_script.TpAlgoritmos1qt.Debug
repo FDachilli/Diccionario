@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\tpalgoritmos.o
+./debug\ternary.o
+./debug\nodo.o
+./debug\principal.o
+./debug\nodorway.o
+./debug\rway.o
+./debug\qrc_imagenes.o
+./debug\moc_tpalgoritmos.o
+./debug\moc_principal.o
+);

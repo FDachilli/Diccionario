@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\tpalgoritmos.o
+./release\ternary.o
+./release\nodo.o
+./release\principal.o
+./release\nodorway.o
+./release\rway.o
+./release\qrc_imagenes.o
+./release\moc_tpalgoritmos.o
+./release\moc_principal.o
+);
